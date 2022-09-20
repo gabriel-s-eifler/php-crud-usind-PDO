@@ -1,0 +1,9 @@
+{
+  "name": "geifler/crud-vagas",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
